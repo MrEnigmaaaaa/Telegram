@@ -1,0 +1,1 @@
+query_id=AAFl1oArAwAAAGXWgCsSvlL9&user=%7B%22id%22%3A7172314725%2C%22first_name%22%3A%22Enigma%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22neo080801%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718733809&hash=f484a2938b77e8d074a2823a8e6342862b76a4639a3475277ffa1a7609b184af
